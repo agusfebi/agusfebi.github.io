@@ -1,0 +1,21 @@
+[
+    {
+        "id": "unique_id_1",
+        "name": "Nama Pengguna 1",
+        "presence": true,
+        "comment": "Komentar pengguna 1"
+    },
+    {
+        "id": "unique_id_2",
+        "name": "Nama Pengguna 2",
+        "presence": false,
+        "comment": "Komentar pengguna 2"
+    },
+    {
+        "id": "unique_id_3",
+        "name": "Nama Pengguna 3",
+        "presence": true,
+        "comment": "Komentar pengguna 3"
+    }
+
+]
